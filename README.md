@@ -39,6 +39,7 @@ Tabel of Contents
   * http://www.fixup.fi/misc/usenix-login-2015/login_oct15_02_kantee.pdf - The Rise and Fall of the Operating System
   * http://unikernel.org/files/2014-cacm-unikernels.pdf - Unikernels: The Rise of the Virtual Library Operating System
   * http://unikernel.org/files/2015-nsdi-jitsu.pdf - Jitsu: Just-In-Time Summoning of Unikernels
+  * https://mjbright.github.io/Talks/2018-Jan-28_Devconf.cz_Unikernels/2018-Jan-28_Devconf.cz_Unikernels.pdf - Unikernels in Action
 
 ## Talks
 
