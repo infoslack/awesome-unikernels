@@ -44,6 +44,8 @@ Tabel of Contents
   * http://unikernel.org/files/2015-nsdi-jitsu.pdf - Jitsu: Just-In-Time Summoning of Unikernels
   * http://home.in.tum.de/~ding/files/fades-pre-camera.pdf - FADES: Fine-Grained Edge Offloading with Unikernels
   * http://cnp.neclab.eu/projects/lightvm/lightvm.pdf - My VM is Lighter (and Safer) than your Container
+  * https://mjbright.github.io/Talks/2018-Jan-28_Devconf.cz_Unikernels/2018-Jan-28_Devconf.cz_Unikernels.pdf - Unikernels in Action
+
 
 ## Talks
 
