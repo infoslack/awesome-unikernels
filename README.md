@@ -2,7 +2,7 @@
 This list is for anyone wishing learn about Unikernels but
 do not have a starting point.
 
-You can help by sendind Pull Requests to add more information.
+You can help by sending Pull Requests to add more information.
 
 If you're not inclined to make PRs, you can tweet me at [@infoslack](https://twitter.com/infoslack)
 
@@ -26,7 +26,10 @@ Tabel of Contents
   * http://osv.io/ - OSv
   * http://rumpkernel.org/ - Rumprun
   * http://runtimejs.org/ - runtime.js
-  * https://github.com/cf-unik/unik - UniK
+  * https://github.com/solo-io/unik - UniK
+  * http://osv.io/capstan/ - Capstan
+  * http://torokerneleng.blogspot.com/ - Toro kernel
+  * https://xenproject.org/developers/teams/unikraft/ - Unikraft
 
 ## Books
 
@@ -39,7 +42,10 @@ Tabel of Contents
   * http://www.fixup.fi/misc/usenix-login-2015/login_oct15_02_kantee.pdf - The Rise and Fall of the Operating System
   * http://unikernel.org/files/2014-cacm-unikernels.pdf - Unikernels: The Rise of the Virtual Library Operating System
   * http://unikernel.org/files/2015-nsdi-jitsu.pdf - Jitsu: Just-In-Time Summoning of Unikernels
+  * http://home.in.tum.de/~ding/files/fades-pre-camera.pdf - FADES: Fine-Grained Edge Offloading with Unikernels
+  * http://cnp.neclab.eu/projects/lightvm/lightvm.pdf - My VM is Lighter (and Safer) than your Container
   * https://mjbright.github.io/Talks/2018-Jan-28_Devconf.cz_Unikernels/2018-Jan-28_Devconf.cz_Unikernels.pdf - Unikernels in Action
+
 
 ## Talks
 
@@ -50,3 +56,9 @@ Tabel of Contents
   * https://www.youtube.com/watch?v=0AZVCGTxkTU - Unikernels and Docker: From Revolution to Evolution - Black Belt Track
   * https://www.youtube.com/watch?v=wcZWg3YtvnY - Unik: Unikernel Runtime for Kubernetes by Idit Levine, EMC
   * https://www.youtube.com/watch?v=fysw3Le34jc - How Unikernels Can Better Defend against DDoS Attacks
+  * https://www.youtube.com/watch?v=0uTp8xYvaaY - Unikernels and Event-driven Serverless Platforms - Madhuri Yechuri
+  * https://www.youtube.com/watch?v=9PRKBZHArhI - LISA18 - Unikraft: Unikernels Made Easy - Simon Kuenzer, NEC Laboratories
+  * https://www.youtube.com/watch?v=cUvNths_5RA - Rainbows and Unikernels - Garrett Smith
+  * https://www.youtube.com/watch?v=lZKWK6c0ND0&t=3s - Debunking Unikernel Criticisms
+  * https://www.youtube.com/watch?v=W9F4pn9Lngc - "Look ma, no OS! Unikernels and their applications" by Matt Bajor
+  
