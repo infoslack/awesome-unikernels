@@ -30,6 +30,7 @@ Tabel of Contents
   * http://osv.io/capstan/ - Capstan
   * http://torokerneleng.blogspot.com/ - Toro kernel
   * https://xenproject.org/developers/teams/unikraft/ - Unikraft
+  * https://github.com/nanovms/nanos - Nanos
 
 ## Books
 
