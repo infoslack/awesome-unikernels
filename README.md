@@ -31,6 +31,8 @@ Tabel of Contents
   * [Toro kernel](http://torokerneleng.blogspot.com/)
   * [Unikraft](https://xenproject.org/developers/teams/unikraft/)
   * [Nanos](https://github.com/nanovms/nanos)
+  * [HermitCore](https://hermitcore.org/)
+  * [Ultibo](https://ultibo.org/)
 
 ## Books
 
